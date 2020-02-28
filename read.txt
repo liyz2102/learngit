@@ -1,2 +1,3 @@
 hi it's text file;
 hi iam lee.
+Git is free software.
