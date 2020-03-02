@@ -1,3 +1,4 @@
+
 i it's text file;
 hi iam lee.
 Git is free software.
@@ -8,4 +9,5 @@ I test new branch;haha;
 
 hhaa, new new new;
 Itest it again;
+hahahaha;nihao;popo
 hi,good morning
